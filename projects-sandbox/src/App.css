@@ -18,8 +18,13 @@
 }
 
 .secondary-title {
-  font-size: 1.5rem !important;
-  font-weight: 700;
+  font-size: 1.2rem !important;
+  font-weight: 600;
+}
+
+.btn-text {
+  font-size: 1.1rem;
+  padding-left: 4px;
 }
 
 .logo {
