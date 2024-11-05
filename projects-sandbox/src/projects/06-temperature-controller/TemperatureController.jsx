@@ -7,15 +7,15 @@ import { FaMinus, FaPlus } from "react-icons/fa6";
 export default function TemperatureController() {
   const [temperature, setTemperature] = useState(0);
 
-  const resetTemperature = (e) => {
+  const resetTemperature = () => {
     setTemperature(0);
   };
 
-  const increaseTemperature = (e) => {
+  const increaseTemperature = () => {
     setTemperature(temperature + 1);
   };
 
-  const decreaseTemperature = (e) => {
+  const decreaseTemperature = () => {
     setTemperature(temperature - 1);
   };
 
