@@ -11,20 +11,24 @@
 } */
 
 .title {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-weight: 900;
   display: flex;
   justify-content: center;
 }
 
 .secondary-title {
-  font-size: 1.2rem !important;
-  font-weight: 600;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
 }
 
 .btn-text {
   font-size: 1.1rem;
   padding-left: 4px;
+}
+
+.btn-icon {
+  width: 54px;
 }
 
 .fade-in-effect {
