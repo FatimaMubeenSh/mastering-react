@@ -6,7 +6,8 @@ import "./App.css";
 // import AlertsDisplay from "./projects/05-alerts-display/AlertsDisplay";
 // import TemperatureController from "./projects/06-temperature-controller/TemperatureController";
 // import LightDarkMode from "./projects/07-light-and-dark-mode/LightDarkMode";
-import ScreenLockSlider from "./projects/08-screen-lock-slider/ScreenLockSlider";
+// import ScreenLockSlider from "./projects/08-screen-lock-slider/ScreenLockSlider";
+import GrowSlider from "./projects/09-grow-slider/GrowSlider";
 
 function App() {
   return (
@@ -18,7 +19,8 @@ function App() {
       {/* <AlertsDisplay /> */}
       {/* <TemperatureController /> */}
       {/* <LightDarkMode /> */}
-      <ScreenLockSlider />
+      {/* <ScreenLockSlider /> */}
+      <GrowSlider />
     </>
   );
 }
