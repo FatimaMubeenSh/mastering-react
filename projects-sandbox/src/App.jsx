@@ -5,7 +5,8 @@ import "./App.css";
 // import TestimonialsApp from "./projects/04-testimonials-app/TestimonialsApp";
 // import AlertsDisplay from "./projects/05-alerts-display/AlertsDisplay";
 // import TemperatureController from "./projects/06-temperature-controller/TemperatureController";
-import LightDarkMode from "./projects/07-light-and-dark-mode/LightDarkMode";
+// import LightDarkMode from "./projects/07-light-and-dark-mode/LightDarkMode";
+import ScreenLockSlider from "./projects/08-screen-lock-slider/ScreenLockSlider";
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <TestimonialsApp /> */}
       {/* <AlertsDisplay /> */}
       {/* <TemperatureController /> */}
-      <LightDarkMode />
+      {/* <LightDarkMode /> */}
+      <ScreenLockSlider />
     </>
   );
 }
