@@ -4,7 +4,8 @@ import "./App.css";
 // import LikePhotoApp from "./projects/03-like-photo-app/LikePhotoApp";
 // import TestimonialsApp from "./projects/04-testimonials-app/TestimonialsApp";
 // import AlertsDisplay from "./projects/05-alerts-display/AlertsDisplay";
-import TemperatureController from "./projects/06-temperature-controller/TemperatureController";
+// import TemperatureController from "./projects/06-temperature-controller/TemperatureController";
+import LightDarkMode from "./projects/07-light-and-dark-mode/LightDarkMode";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <LikePhotoApp /> */}
       {/* <TestimonialsApp /> */}
       {/* <AlertsDisplay /> */}
-      <TemperatureController />
+      {/* <TemperatureController /> */}
+      <LightDarkMode />
     </>
   );
 }
