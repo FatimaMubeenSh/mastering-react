@@ -8,6 +8,7 @@ import "./App.css";
 // import LightDarkMode from "./projects/07-light-and-dark-mode/LightDarkMode";
 // import ScreenLockSlider from "./projects/08-screen-lock-slider/ScreenLockSlider";
 import GrowSlider from "./projects/09-grow-slider/GrowSlider";
+import ContactsDirectory from "./projects/11-contacts-directory/ContactsDirectory";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       {/* <TemperatureController /> */}
       {/* <LightDarkMode /> */}
       {/* <ScreenLockSlider /> */}
-      <GrowSlider />
+      {/* <GrowSlider /> */}
+      <ContactsDirectory />
     </>
   );
 }

@@ -17,6 +17,18 @@
   justify-content: center;
 }
 
+.text-bar {
+  width: 20rem;
+  padding: 1rem;
+  border-radius: 25px;
+  border-color: darkgrey;
+}
+
+.text-bar:hover,
+.text-bar:active {
+  border-color: blueviolet !important;
+}
+
 .secondary-title {
   font-size: 1.5rem !important;
   font-weight: 600 !important;
